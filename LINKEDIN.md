@@ -1,9 +1,13 @@
 # LinkedIn — Board Lane API
 
-- Data da entrega: 05/11/2026 (America/Sao_Paulo).
-- Perfil autorizado: https://www.linkedin.com/in/brunopera00/
-- Estado: pendente de publicação; publicar somente após confirmar código no GitHub e ausência de duplicata.
-- Idiomas: português e inglês, em um único post.
+- Data da entrega e publicação: 05/11/2026 (America/Sao_Paulo).
+- Perfil: https://www.linkedin.com/in/brunopera00/
+- Estado: publicado; autorização diária de 04/11/2026, válida até 12/11/2026.
+- Publicação: https://www.linkedin.com/feed/update/urn:li:activity:7524049095754428417/
+- Verificação: 2026-11-05T10:05:21Z; mensagem “Publicação concluída.” e conteúdo português/inglês visível no permalink, incluindo o link deste repositório.
+- Prevenção de duplicatas: manifesto e LINKEDIN.md estavam sem post do dia; atividades recentes mostravam Order Once (04/11), Project Shelf (03/11) e Task API (02/11), sem Board Lane. Publicar foi acionado uma única vez.
+- Código confirmado antes do envio: https://github.com/perabru/api-lab-2026-11-05/commit/423a0c387c133c7454b5dbacd65869e106876cb5
+- Idiomas: português e inglês no mesmo post; 1808 caracteres no texto de origem.
 
 ## Texto do post
 

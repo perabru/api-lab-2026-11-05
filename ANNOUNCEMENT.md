@@ -25,3 +25,5 @@ Referência: documentação oficial [Trello REST API](https://developer.atlassia
 Teste com dados fictícios, sugira um caso de borda por issue ou dê uma estrela para acompanhar. O README tem apoio voluntário por Pix; o código continua aberto e gratuito.
 
 **English summary:** Local Kanban API with boards, columns, card editing, same-board moves and contiguous ordering. Twelve HTTP tests passed, covering invalid references, concurrent moves, persistence failure and process restart. Try the isolated demo and contribute a reproducible edge case.
+
+[Post bilíngue publicado e verificado no LinkedIn em 05/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524049095754428417/).

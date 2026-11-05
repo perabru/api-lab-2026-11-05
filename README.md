@@ -175,3 +175,5 @@ A melhoria de contribuição desta entrega é uma demo que confere ordem e vínc
 **English:** A local Node.js Kanban API with boards, columns, editable cards, same-board moves, contiguous ordering and JSON persistence. Twelve HTTP tests passed, including concurrent moves, storage failure and real process restart. No external dependencies, Trello account integration or hosted endpoint.
 
 [Calendário das 10 APIs](https://github.com/perabru/peradev-apis/blob/main/docs/10-days.md) · **Licença MIT — Bruno Michel Pera**
+
+[Post bilíngue publicado e verificado no LinkedIn em 05/11/2026](https://www.linkedin.com/feed/update/urn:li:activity:7524049095754428417/).
