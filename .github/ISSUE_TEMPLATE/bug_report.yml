@@ -1,0 +1,22 @@
+name: Relatar falha
+description: Ajude a reproduzir um problema de cartões ou vínculos
+title: "[Bug] "
+body:
+  - type: input
+    id: environment
+    attributes:
+      label: Sistema e versão do Node.js
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Comandos e resultado esperado e observado
+      description: Use dados fictícios e não envie credenciais.
+    validations:
+      required: true
+  - type: textarea
+    id: order
+    attributes:
+      label: Ordem anterior, coluna e posição desejada
+      description: Informe se o movimento foi na mesma coluna e se houve reinício.

@@ -1,0 +1,1 @@
+{"name":"board-lane-api","version":"1.0.0","private":true,"type":"module","description":"Kanban local com vínculos consistentes e cartões ordenados","engines":{"node":">=22"},"scripts":{"start":"node src/server.js","test":"node --test"},"license":"MIT"}
